@@ -1,4 +1,5 @@
-### Hi there 👋
+[![S-zebra's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-zebra&disable_animations=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-zebra&layout=compact&disable_animations=true)
 
 <!--
 **S-zebra/S-zebra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
